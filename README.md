@@ -1,8 +1,10 @@
 # OS Arena  
 A Web-Based Learning and Visualization System for Operating System Algorithms
 ---
+#Project Link [click here to view the project] https://rishiv.lovable.app/
 
-## 📌 Project Overview
+---
+##  Project Overview
 OS Arena is a web-based educational platform designed to provide an interactive
 and visual approach to learning core Operating System concepts. The system helps
 students understand the internal working of scheduling and memory allocation
@@ -10,7 +12,7 @@ algorithms through step-by-step execution and visualization.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - To simplify complex Operating System concepts using visualization
 - To provide an interactive learning environment for students
 - To demonstrate algorithm behavior in a clear and intuitive manner
@@ -18,14 +20,14 @@ algorithms through step-by-step execution and visualization.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### 🔹 Visualization-Centric Learning
+###  Visualization-Centric Learning
 - Step-by-step execution of algorithms
 - Clear visual representation of process flow
 - Helps users understand scheduling decisions easily
 
-### 🔹 Modular & Scalable Architecture
+###  Modular & Scalable Architecture
 - Independent modules for different OS algorithms
 - Easy extension to include new scheduling and memory algorithms
 - Clean separation of logic and user interface
@@ -37,14 +39,14 @@ algorithms through step-by-step execution and visualization.
 
 ---
 
-## 🧠 Algorithms Covered
+##  Algorithms Covered
 
-### 🔸 CPU Scheduling Algorithms
+###  CPU Scheduling Algorithms
 - First Come First Serve (FCFS)
 - Round Robin Scheduling
 - Priority Scheduling (extendable)
 
-### 🔸 Memory Management Algorithms
+###  Memory Management Algorithms
 - Worst Fit Allocation
 - (Scalable for Best Fit and First Fit)
 
@@ -71,3 +73,4 @@ OS-Arena/
 ├── images/
 │ └── screenshots
 └── README.md
+
