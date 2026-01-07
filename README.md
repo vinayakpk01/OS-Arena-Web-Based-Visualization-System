@@ -3,7 +3,7 @@ A Web-Based Learning and Visualization System for Operating System Algorithms
 ---
 #Project Link [click here to view the project] https://rishiv.lovable.app/
 
----
+
 ##  Project Overview
 OS Arena is a web-based educational platform designed to provide an interactive
 and visual approach to learning core Operating System concepts. The system helps
@@ -73,4 +73,5 @@ OS-Arena/
 ├── images/
 │ └── screenshots
 └── README.md
+
 
